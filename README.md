@@ -1,57 +1,59 @@
-# Relatório de Analise
 
-Com base em uma análise de vagas de Analista de Monitoramento, Sustentação, Implantação, T.I. e Redes em plataformas de emprego, é possível traçar um panorama das competências e tendências do mercado de trabalho nessas áreas.
+---
 
-#Análise de Competências#
-A análise das descrições de vagas mostra uma forte demanda por habilidades técnicas (hard skills) e uma crescente valorização das habilidades interpessoais (soft skills).
+### **Relatório Detalhado: O Perfil do Analista de Monitoramento**
 
-#Hard Skills#
-Zabbix: É uma ferramenta de monitoramento muito requisitada para a detecção de desvios, falhas e indisponibilidade de sistemas e infraestruturas.
+Este relatório foi elaborado com base em uma análise de vagas e tendências do mercado para o cargo de Analista de Monitoramento, fornecendo um panorama das competências mais valorizadas, faixas salariais e tendências futuras.
 
-SQL Server: Conhecimento em banco de dados e a capacidade de realizar consultas e validações são competências frequentemente mencionadas.
+---
 
-Sistemas Operacionais (Windows e Linux): O domínio de ambientes Windows e Linux é uma base fundamental para analistas, especialmente em funções de suporte e monitoramento.
+### **1. Análise de Competências**
 
-Redes e Infraestrutura: Experiência com configuração de equipamentos de rede (switches, roteadores), monitoramento de links e troubleshooting de conectividade são essenciais.
+O perfil do Analista de Monitoramento exige uma combinação estratégica de habilidades técnicas e interpessoais.
 
-Metodologias Ágeis: A adoção de metodologias ágeis é uma tendência em empresas de tecnologia, indicando a necessidade de profissionais com mentalidade de crescimento, adaptabilidade e senso colaborativo.
+#### **Hard Skills (Habilidades Técnicas)**
 
-#Soft Skills#
+* **Zabbix:** É a ferramenta de monitoramento mais requisitada. O domínio dela para detecção de falhas e indisponibilidade de sistemas é um diferencial.
+* **SQL Server:** Conhecimento em banco de dados e a capacidade de realizar consultas e validações são competências frequentemente mencionadas.
+* **Sistemas Operacionais (Linux e Windows):** A familiaridade com esses ambientes é a base para o suporte e monitoramento de infraestruturas.
+* **Metodologias Ágeis:** A capacidade de se adaptar a modelos de trabalho como Scrum ou Kanban está em alta.
 
-Comunicação e Trabalho em Equipe: A habilidade de se comunicar de forma clara e de trabalhar em equipe é citada como um requisito básico para a maioria dos cargos de analista.
+#### **Soft Skills (Habilidades Comportamentais)**
 
-Resolução de Problemas e Análise de Causa Raiz: A capacidade de diagnosticar, analisar e solucionar incidentes é uma habilidade central para analistas de sustentação e monitoramento.
+* **Comunicação:** Habilidade crucial para reportar incidentes e interagir com equipes e clientes.
+* **Resolução de Problemas:** A capacidade de diagnosticar e solucionar a causa-raiz dos incidentes é a essência do trabalho.
+* **Proatividade:** Ser proativo, antecipar problemas e buscar soluções inovadoras é uma qualidade altamente valorizada.
+* **Atendimento ao Cliente:** Em muitas funções de suporte e monitoramento, a capacidade de prestar um bom atendimento é fundamental.
 
-Proatividade: Ser proativo, planejar soluções e se envolver nos projetos é uma qualidade valorizada, especialmente em vagas que buscam profissionais com mentalidade de inovação e aprendizado contínuo.
+---
 
-Atendimento ao Cliente: Em cargos de suporte e implantação, a capacidade de prestar um bom atendimento ao usuário final é crucial.
+### **2. Análise de Tendências**
 
-# Análise de Tendências #
-A partir dos dados analisados, é possível notar algumas tendências importantes na área de TI:
+* **Cloud Computing:** Conhecimentos em plataformas de nuvem, como **AWS** e **Azure**, estão se tornando um requisito cada vez mais comum.
+* **DevOps e Automação:** Há uma busca crescente por profissionais que possam não apenas monitorar, mas também automatizar tarefas para otimizar o trabalho.
+* **Cibersegurança:** O monitoramento de redes e a segurança de dados emergem como áreas de alta demanda.
+* **Modelo de Trabalho Híbrido/Remoto:** A flexibilidade de trabalhar remotamente se consolidou, o que amplia as oportunidades.
 
-Cloud Computing: Conhecimentos em plataformas de nuvem como AWS estão sendo cada vez mais solicitados em vagas de monitoramento e suporte de ambientes.
+---
 
-DevOps e Automação: Há uma crescente busca por profissionais que possam não apenas monitorar, mas também automatizar processos para prover inteligência e reduzir esforços operacionais.
+### **3. Análise Salarial de Cargos de Analista**
 
-Cibersegurança: O monitoramento de redes e a segurança de dados emergem como áreas de grande demanda, com vagas específicas para Analista de Cibersegurança de Redes.
+A faixa salarial de um Analista de Monitoramento se compara com outras funções da área de T.I. da seguinte forma:
 
-Modelo de Trabalho Híbrido/Remoto: Muitas empresas oferecem vagas com a possibilidade de trabalho remoto ou híbrido, o que flexibiliza a localização e amplia as oportunidades.
+| Cargo | Faixa Salarial Média (R$) | Fonte |
+| :--- | :--- | :--- |
+| **Analista de Monitoramento** | R$ 2.151 a R$ 2.280 | Catho, Infojobs |
+| **Analista de Implantação** | R$ 3.112 a R$ 4.061 | Catho, Infojobs |
+| **Analista de Infraestrutura** | R$ 6.150 a R$ 10.300 | Glassdoor |
+| **Analista de Redes** | R$ 3.781 a R$ 7.944 | Trybe, Infojobs |
+| **Analista de Sustentação** | R$ 6.150 a R$ 10.300 | Glassdoor |
 
-# Plano de Ação #
-Com base na análise de mercado, o desenvolvimento de três competências-chave pode impulsionar sua carreira nos próximos seis meses:
+---
 
-Hard Skill - Automação: A automação é uma área em crescimento e dominar linguagens de script (como Python) ou ferramentas de automação (como Ansible) pode ser um grande diferencial, especialmente para otimizar rotinas de monitoramento.
+### **4. Plano de Ação**
 
-Hard Skill - Cloud Computing (AWS/Azure): Invista em cursos e certificações em plataformas de nuvem. A AWS, por exemplo, oferece certificações que validam o conhecimento em serviços de infraestrutura e monitoramento, um diferencial para o mercado.
+Com base na análise de mercado, estas são as competências-chave a serem desenvolvidas nos próximos seis meses:
 
-Soft Skill - Resolução de Problemas: Aprimore sua capacidade de análise e resolução de problemas. Isso pode ser feito através da participação em projetos pessoais, estudando casos de incidentes ou mesmo realizando cursos focados em troubleshooting e análise de causa raiz.
-
-#Análise Salarial de Cargos de Analista#
-#Cargo	Faixa Salarial Média (R$)	Fonte#
-Analista de Monitoramento	R$ 2.151 a R$ 2.280	Catho, Infojobs
-Analista de Implantação	R$ 3.112 a R$ 4.061	Catho, Infojobs
-Analista de Infrasestrutura.R$ 6.150 e R$ 10.300 - Glassdor
-Analista de Redes	R$ 3.781 a R$ 7.944	Trybe, Infojobs
-Analista de Sustentação	R$ 6.150 a R$ 10.300 -Glassdor 
-
-
+1.  **Hard Skill - Automação:** Domine linguagens de *script* (como Python) ou ferramentas de automação (como Ansible) para otimizar rotinas e se diferenciar no mercado.
+2.  **Hard Skill - Cloud Computing (AWS/Azure):** Invista em cursos e certificações em plataformas de nuvem para validar seu conhecimento.
+3.  **Soft Skill - Resolução de Problemas:** Aprimore sua capacidade de análise e *troubleshooting* participando de projetos e estudando casos de incidentes.
