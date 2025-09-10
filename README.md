@@ -46,8 +46,8 @@ Hard Skill - Cloud Computing (AWS/Azure): Invista em cursos e certificações em
 
 Soft Skill - Resolução de Problemas: Aprimore sua capacidade de análise e resolução de problemas. Isso pode ser feito através da participação em projetos pessoais, estudando casos de incidentes ou mesmo realizando cursos focados em troubleshooting e análise de causa raiz.
 
-Análise Salarial de Cargos de Analista
-Cargo	Faixa Salarial Média (R$)	Fonte
+#Análise Salarial de Cargos de Analista#
+#Cargo	Faixa Salarial Média (R$)	Fonte#
 Analista de Monitoramento	R$ 2.151 a R$ 2.280	Catho, Infojobs
 Analista de Implantação	R$ 3.112 a R$ 4.061	Catho, Infojobs
 Analista de Infrasestrutura.R$ 6.150 e R$ 10.300 - Glassdor
